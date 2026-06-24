@@ -1,0 +1,5 @@
+.env
+*.json
+divergence_bot.py
+watchdog.py
+start_divergence.bat
